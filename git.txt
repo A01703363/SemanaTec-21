@@ -1,0 +1,8 @@
+// Para clonar el repositorio de github 
+git clone ruta_repositorio 
+
+//Para saber la ruta es el estatus de repositorio 
+git status
+
+//Es para reatrear un archivo-
+git add
